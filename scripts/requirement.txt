@@ -1,0 +1,9 @@
+pytest
+pytest-pep8
+pytest-cov
+doxypypy
+futures
+ujson
+zmq
+pyserial
+scons
